@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "taoapi.client",
+      "type": "com.xingtao.taoapiclientsdk.TaoApiClientConfig",
+      "sourceType": "com.xingtao.taoapiclientsdk.TaoApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "taoapi.client.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xingtao.taoapiclientsdk.TaoApiClientConfig"
+    },
+    {
+      "name": "taoapi.client.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xingtao.taoapiclientsdk.TaoApiClientConfig"
+    }
+  ],
+  "hints": []
+}

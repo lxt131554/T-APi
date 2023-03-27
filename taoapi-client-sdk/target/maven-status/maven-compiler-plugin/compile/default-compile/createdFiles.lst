@@ -1,0 +1,5 @@
+com\xingtao\taoapiclientsdk\client\Taoapiclient.class
+com\xingtao\taoapiclientsdk\TaoApiClientConfig.class
+com\xingtao\taoapiclientsdk\model\User.class
+com\xingtao\taoapiclientsdk\utils\SignUtils.class
+META-INF\spring-configuration-metadata.json
